@@ -1,0 +1,1 @@
+Run `pip install -r requirements.txt` on Windows or `pip3 install -r requirements.txt` if you are on a Mac
